@@ -15,7 +15,5 @@ public class Main {
         } catch (RuntimeException e) {
             System.out.println(e.toString());
         }
-
-
     }
 }
